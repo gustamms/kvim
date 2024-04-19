@@ -78,6 +78,7 @@ local function init_servers()
         ocamllsp = {},
         nushell = {},
         zls = {},
+        vuels = {},
     }
 
     local mapping = {
