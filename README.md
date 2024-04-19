@@ -11,5 +11,5 @@ This is my custom configuration and plugins for neovim.
 - Clone this repository to your config folder
 
 ```shell
-git clone https://github.com/kessejones/kvim.git $HOME/.config/nvim
+git clone https://github.com/gustamms/kvim.git $HOME/.config/nvim
 ```
