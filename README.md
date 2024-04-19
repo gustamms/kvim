@@ -8,6 +8,11 @@ This is my custom configuration and plugins for neovim.
 
 ## Installation
 
+- Install ripgrep
+``` shell
+brew install ripgrep
+```
+
 - Clone this repository to your config folder
 
 ```shell
